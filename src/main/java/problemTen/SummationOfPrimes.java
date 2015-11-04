@@ -1,4 +1,4 @@
-package problem;
+package problemTen;
 
 public class SummationOfPrimes {
     public static void main(String[] args) {

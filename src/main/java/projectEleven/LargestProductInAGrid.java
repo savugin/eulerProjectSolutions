@@ -1,4 +1,4 @@
-package problem;
+package projectEleven;
 
 public class LargestProductInAGrid {
     public static void main(String[] args) {

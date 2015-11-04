@@ -1,4 +1,4 @@
-package problem;
+package problemSix;
 
 public class SumSquareDifference {
     public static void main(String[] args){

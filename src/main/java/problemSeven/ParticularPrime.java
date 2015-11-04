@@ -1,4 +1,4 @@
-package problem;
+package problemSeven;
 
 public class ParticularPrime {
     public static void main(String[] args){

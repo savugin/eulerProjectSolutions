@@ -1,4 +1,4 @@
-package problem;
+package problemEight;
 
 public class LargestProductInASeries {
 
