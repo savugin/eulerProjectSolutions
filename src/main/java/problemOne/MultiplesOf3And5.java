@@ -1,4 +1,4 @@
-package problem;
+package problemOne;
 
 public class MultiplesOf3And5 {
 

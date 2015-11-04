@@ -1,4 +1,4 @@
-package problem;
+package problemTwo;
 
 public class EvenFibonacciNumber {
     public static void main(String[] args){

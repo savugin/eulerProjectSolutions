@@ -1,4 +1,4 @@
-package problem;
+package problemThree;
 
 public class LargestPrimeFactor {
     public static void main(String[] args){
